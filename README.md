@@ -76,7 +76,7 @@ Follow the steps below to get the project running on your local machine.
 
 4. **Start the React development server**:
    ```bash
-   npm start
+   npm run dev
    ```
 
    The frontend should now be running on `http://localhost:3000`.
