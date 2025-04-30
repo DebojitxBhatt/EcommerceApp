@@ -1,3 +1,4 @@
+
 package com.webapp.ecommerce.controller;
 
 import com.webapp.ecommerce.service.UserService;
@@ -28,3 +29,5 @@ public class AuthController {
         return ResponseEntity.ok("Logged in successfully");
     }
 }
+
+

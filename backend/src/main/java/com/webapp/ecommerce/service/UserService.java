@@ -1,3 +1,4 @@
+
 package com.webapp.ecommerce.service;
 
 import com.webapp.ecommerce.model.User;
@@ -45,3 +46,4 @@ public class UserService {
         return userRepository.findByEmail(email);
     }
 }
+

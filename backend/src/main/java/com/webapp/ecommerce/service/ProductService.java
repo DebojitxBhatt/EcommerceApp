@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.webapp.ecommerce.service;
 
 import com.webapp.ecommerce.model.Product;
@@ -47,3 +48,13 @@ public class ProductService {
         productRepo.deleteById(id);
     }
 }
+=======
+package com.webapp.ecommerce.service;
+
+import com.webapp.ecommerce.model.Product;
+import com.webapp.ecommerce.repository.ProductRepository;
+import org.springframework.stereotype.Service;
+
+import java.util.List;
+
+>>>>>>> bdc04235f00b2f6b99d6b53985389f642b7ab66b

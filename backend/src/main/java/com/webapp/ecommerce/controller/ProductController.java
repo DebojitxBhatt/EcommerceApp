@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.webapp.ecommerce.controller;
 
 import com.webapp.ecommerce.model.Product;
@@ -46,3 +47,13 @@ public class ProductController {
         service.deleteProduct(id);
     }
 }
+=======
+package com.webapp.ecommerce.controller;
+
+import com.webapp.ecommerce.model.Product;
+import com.webapp.ecommerce.service.ProductService;
+import org.springframework.web.bind.annotation.*;
+
+import java.util.List;
+
+>>>>>>> bdc04235f00b2f6b99d6b53985389f642b7ab66b

@@ -1,3 +1,4 @@
+
 package com.webapp.ecommerce.repository;
 
 import com.webapp.ecommerce.model.User;
@@ -10,3 +11,5 @@ import java.util.Optional;
 public interface UserRepository extends JpaRepository<User, Long> {
     Optional<User> findByEmail(String email);  // To check if a user exists by email
 }
+
+

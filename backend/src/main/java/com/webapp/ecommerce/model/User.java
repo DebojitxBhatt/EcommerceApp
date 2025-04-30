@@ -1,3 +1,4 @@
+
 package com.webapp.ecommerce.model;
 
 import jakarta.persistence.*;
@@ -60,3 +61,4 @@ public class User {
         this.role = role;
     }
 }
+

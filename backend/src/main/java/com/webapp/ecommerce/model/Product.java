@@ -1,3 +1,4 @@
+
 package com.webapp.ecommerce.model;
 
 import jakarta.persistence.*;
