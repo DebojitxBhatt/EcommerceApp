@@ -59,6 +59,7 @@ export default function CartPage() {
     );
   };
 
+//cart update fixed.
   return (
     <Container sx={{ mt: 4 }}>
       <Typography variant="h4" gutterBottom>
