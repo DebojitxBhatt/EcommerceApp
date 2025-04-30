@@ -1,0 +1,37 @@
+# Java
+*.class
+*.jar
+*.war
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# Maven (if you are using Maven at any point)
+target/
+
+# Node.js (for Frontend)
+node_modules/
+
+# Build outputs (Frontend)
+dist/
+public/
+
+# Environment Variables
+.env
+application.properties
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+
+# Log files
+*.log
